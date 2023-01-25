@@ -1,2 +1,7 @@
 hello
+<<<<<<< HEAD
 on the main right now
+=======
+more hello
+even more hello
+>>>>>>> experimental
